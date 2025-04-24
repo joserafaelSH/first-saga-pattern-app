@@ -1,5 +1,5 @@
 # first-saga-pattern-app
-
+Implementation of the Saga standard to deal with transactions distributed over microservices
 
 
 ## Orchestrated saga pattern
